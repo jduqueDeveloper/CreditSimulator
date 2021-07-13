@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CreditSimulator</string>
+    <string name="valor_del_cr_dito">valor del crédito</string>
+    <string name="de_cuotas"># de cuotas</string>
+    <string name="calcular_numero_de_cuotas">Calcular Numero de cuotas</string>
+    <string name="calcular">calcular</string>
 </resources>
